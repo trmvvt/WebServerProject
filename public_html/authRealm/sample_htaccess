@@ -1,0 +1,4 @@
+AuthUserFile C:\Users\Poushali\Documents\NetBeansProjects\WebServerProject\public_html\authRealm\htpasswd
+AuthName "User name and password needed"
+AuthType Basic 
+require valid-user 
